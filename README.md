@@ -1,5 +1,5 @@
 
-
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Akirazeor/funboost)
 # 1.python万能分布式函数调度框架简funboost简介
 
 [//]: # (Stargazers:)
